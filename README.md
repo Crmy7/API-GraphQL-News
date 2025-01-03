@@ -1,6 +1,4 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Frontend
 
 ## Setup
 
@@ -36,4 +34,22 @@ Locally preview production build:
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# Backend
+
+## Setup
+
+Make sure to install dependencies:
+
+```bash
+# npm
+npm install
+```
+
+## Development Server
+
+Start the development server on `http://localhost:2000`:
+
+```bash
+# node
+node app.js
+```
