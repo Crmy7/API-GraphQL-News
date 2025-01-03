@@ -45,6 +45,10 @@ Make sure to install dependencies:
 npm install
 ```
 
+## Database & Environment
+
+Create a `.env` file in the backend directory like the `.env.example` file. Make sure to have a running MySQL instance.
+
 ## Development Server
 
 Start the development server on `http://localhost:2000`:
